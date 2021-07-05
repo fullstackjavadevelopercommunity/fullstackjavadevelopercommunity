@@ -39,6 +39,7 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 - [Blog:](https://fullstackjavadevelopercommunity.blogspot.com)
 - [Google Group:](https://groups.google.com/g/fullstackjavadevelopercommunity)
 
-Warm wishes,
+
+Warm wishes,                                                                                                                                                                  
 
 Full Stack Java Developer Community
