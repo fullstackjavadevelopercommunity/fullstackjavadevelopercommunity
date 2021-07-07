@@ -32,13 +32,14 @@ Blog: https://fullstackjavadevelopercommunity.blogspot.com
 Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 ```
 -->
+<!--
 - [Facebook Page:](https://www.facebook.com/fullstackjavadevelopercommunity)
 - [Facebook Group:](https://www.facebook.com/groups/fullstackjavadevelopercommunity)
 - [GitHub:](https://github.com/fullstackjavadevelopercommunity)
 - [Twitter:](https://twitter.com/i_fsjdc)
 - [Blog:](https://fullstackjavadevelopercommunity.blogspot.com)
 - [Google Group:](https://groups.google.com/g/fullstackjavadevelopercommunity)
-
+-->
 <a href="https://www.linkedin.com/groups/9062940/">
   <img align="left" alt="fullstackjavadevelopercommunity | LinkedIn" width="22px" src="./src/linkedin.svg" />
 </a>
@@ -97,7 +98,8 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 [medium]: https://fullstackjavadevelopercommunity.medium.com/
 [devto]: https://dev.to/fullstackjavadevelopercommunity -->
                                                   
-                                                  
+  <a>                                                
 Warm wishes,                                                                                                                                                                  
 
 Full Stack Java Developer Community
+</a>
