@@ -40,6 +40,7 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 - [Blog:](https://fullstackjavadevelopercommunity.blogspot.com)
 - [Google Group:](https://groups.google.com/g/fullstackjavadevelopercommunity)
 -->
+<br/>
 <a href="https://www.linkedin.com/groups/9062940/">
   <img align="left" alt="fullstackjavadevelopercommunity | LinkedIn" width="22px" src="./src/linkedin.svg" />
 </a>
@@ -55,51 +56,43 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 <a href="https://dev.to/fullstackjavadevelopercommunity">
   <img align="left" alt="fullstackjavadevelopercommunity | Dev.to" width="22px" src="./src/dev-dot-to.svg" />
 </a>
-
 <a href="https://www.facebook.com/fullstackjavadevelopercommunity">
   <img align="left" alt="fullstackjavadevelopercommunity | Facebook" width="22px" src="./src/facebook.svg" />
 </a>
-
 <a href="https://fullstackjavadevelopercommunity.blogspot.com">
   <img align="left" alt="fullstackjavadevelopercommunity | Blog" width="22px" src="./src/blogger.svg" />
 </a>
-
 <a href="https://groups.google.com/g/fullstackjavadevelopercommunity">
   <img align="left" alt="fullstackjavadevelopercommunity | Google Group" width="22px" src="./src/google.svg" />
 </a>
-<a></a><a></a><a></a><a></a><a></a><a></a>
+<a href="https://t.me/fullstackjavadevelopercommunity">
+  <img align="left" alt="fullstackjavadevelopercommunity | Telegram" width="22px" src="./src/telegram.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCD5AQ2MNmZNfaPIx8scIJtw">
+  <img align="left" alt="fullstackjavadevelopercommunity | Youtube" width="22px" src="./src/youtube.svg" />
+</a>
+<br/>
 
 <!--<a href="https://github.com/fullstackjavadevelopercommunity">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>-->
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity)](https://github.com/fullstackjavadevelopercommunity)-->
 
+<br/>
 
 <a href="https://github.com/fullstackjavadevelopercommunity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity&layout=compact&&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity&layout=compact&&show_icons=true&theme=great-gatsby" />
 </a>
-
 <a href="https://github.com/fullstackjavadevelopercommunity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackjavadevelopercommunity&langs_count=8&layout=compact&&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackjavadevelopercommunity&langs_count=8&layout=compact&&show_icons=true&theme=great-gatsby" />
 </a>
 
+<br/>
+<br/>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackjavadevelopercommunity&langs_count=8)
-
-<a href=https://github.com/fullstackjavadevelopercommunity/github-readme-stats>-->
-
-<!--[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fullstackjavadevelopercommunity&repo=github-readme-stats)(https://github.com/fullstackjavadevelopercommunity/github-readme-stats)-->
-
-
-                                                 
-<!-- [linkedin]: https://www.linkedin.com/groups/9062940/
-[twitter]: https://twitter.com/i_fsjdc/
-[gmail]: mailto:fullstackdevelopercommunityy@gmail.com
-[medium]: https://fullstackjavadevelopercommunity.medium.com/
-[devto]: https://dev.to/fullstackjavadevelopercommunity -->
-                                                  
-  <a>                                                
-Warm wishes,                                                                                                                                                                  
-
+                                        
+Warm wishes,<br/>                                                                                                                                                             
 Full Stack Java Developer Community
-</a>
+<a href="https://badges.pufler.dev">
+<img align="right" src="https://badges.pufler.dev/visits/fullstackjavadevelopercommunity/fullstackjavadevelopercommunity?color=yellow" alt="Visitors badge" />
+ </a> 
