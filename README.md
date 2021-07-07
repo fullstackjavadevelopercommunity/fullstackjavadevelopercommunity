@@ -96,7 +96,13 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 </a> 
 <br/>
 <br/>
+## 📕 Latest Blog Posts
 
+BLOG-POST-LIST:START 
+BLOG-POST-LIST:END 
+
+<!--https://www.youtube.com/feeds/videos.xml?playlist_id=<playlistId>-->
+https://www.youtube.com/feeds/videos.xml?channel_id=UCD5AQ2MNmZNfaPIx8scIJtw
                                         
 Warm wishes,<br/>                                                                                                                                                             
 Full Stack Java Developer Community
