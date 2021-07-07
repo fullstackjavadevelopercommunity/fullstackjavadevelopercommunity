@@ -83,6 +83,8 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 <a href="https://github.com/fullstackjavadevelopercommunity">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity&layout=compact&&show_icons=true&theme=great-gatsby" />
 </a>
+<br/>
+<br/>
 <a href="https://github.com/fullstackjavadevelopercommunity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackjavadevelopercommunity&langs_count=8&layout=compact&&show_icons=true&theme=great-gatsby" />
 </a>
@@ -93,6 +95,8 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
                                         
 Warm wishes,<br/>                                                                                                                                                             
 Full Stack Java Developer Community
+<!--![](https://visitor-badge.glitch.me/badge?page_id=fullstackjavadevelopercommunity.fullstackjavadevelopercommunity)-->
+
 <a href="https://badges.pufler.dev">
 <img align="right" src="https://badges.pufler.dev/visits/fullstackjavadevelopercommunity/fullstackjavadevelopercommunity?color=yellow" alt="Visitors badge" />
- </a> 
+</a> 
