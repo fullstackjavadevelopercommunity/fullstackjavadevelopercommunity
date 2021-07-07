@@ -84,11 +84,16 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity&layout=compact&&show_icons=true&theme=great-gatsby" />
 </a>
 <br/>
-<br/>
 <a href="https://github.com/fullstackjavadevelopercommunity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackjavadevelopercommunity&langs_count=8&layout=compact&&show_icons=true&theme=great-gatsby" />
 </a>
-
+<br/>
+<a href="https://github.com/fullstackjavadevelopercommunity/eCommerce-Shopping-POC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackjavadevelopercommunity&repo=eCommerce-Shopping-POC&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/fullstackjavadevelopercommunity/spring-boot-microservices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackjavadevelopercommunity&repo=spring-boot-microservices&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 <br/>
 <br/>
 
