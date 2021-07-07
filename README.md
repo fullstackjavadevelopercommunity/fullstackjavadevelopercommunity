@@ -58,11 +58,6 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 
 <a href=https://github.com/fullstackjavadevelopercommunity/github-readme-stats>-->
 
-
-<a href="https://github.com/fullstackjavadevelopercommunity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackjavadevelopercommunity&repo=github-readme-stats" />
-</a>
-
 <!--[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fullstackjavadevelopercommunity&repo=github-readme-stats)(https://github.com/fullstackjavadevelopercommunity/github-readme-stats)-->
 
 Warm wishes,                                                                                                                                                                  
