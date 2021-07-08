@@ -30,7 +30,7 @@ I think you’d be a wonderful addition to the group and hope you’ll consider 
 <a href="https://twitter.com/i_fsjdc">
   <img align="left" alt="fullstackjavadevelopercommunity | Twitter" width="22px" src="./src/twitter.svg" />
 </a>
-<a href="mailto:fullstackdevelopercommunityy@gmail.com">
+<a href="mailto:fullstackdevelopercommunity@gmail.com">
   <img align="left" alt="fullstackjavadevelopercommunity | Gmail" width="22px" src="./src/gmail.svg" />
 </a>
 <a href="https://fullstackdevelopercommunity.medium.com">
