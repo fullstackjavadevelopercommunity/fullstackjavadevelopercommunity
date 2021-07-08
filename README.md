@@ -36,8 +36,8 @@ I think you’d be a wonderful addition to the group and hope you’ll consider 
 <a href="https://fullstackjavadevelopercommunity.medium.com">
   <img align="left" alt="fullstackjavadevelopercommunity | Medium" width="22px" src="./src/medium.svg" />
 </a>
-<a href="https://dev.to/fullstackjavadevelopercommunity">
-  <img align="left" alt="fullstackjavadevelopercommunity | Dev.to" width="22px" src="./src/dev-dot-to.svg" />
+<a href="https://dev.to/fullstackdevelopercommunity">
+  <img align="left" alt="fullstackdevelopercommunity | Dev.to" width="22px" src="./src/dev-dot-to.svg" />
 </a>
 <a href="https://www.facebook.com/fullstackjavadevelopercommunity">
   <img align="left" alt="fullstackjavadevelopercommunity | Facebook" width="22px" src="./src/facebook.svg" />
