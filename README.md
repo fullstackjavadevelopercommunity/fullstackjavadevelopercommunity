@@ -33,8 +33,8 @@ I think you’d be a wonderful addition to the group and hope you’ll consider 
 <a href="mailto:fullstackdevelopercommunityy@gmail.com">
   <img align="left" alt="fullstackjavadevelopercommunity | Gmail" width="22px" src="./src/gmail.svg" />
 </a>
-<a href="https://fullstackjavadevelopercommunity.medium.com">
-  <img align="left" alt="fullstackjavadevelopercommunity | Medium" width="22px" src="./src/medium.svg" />
+<a href="https://fullstackdevelopercommunity.medium.com">
+  <img align="left" alt="fullstackdevelopercommunity | Medium" width="22px" src="./src/medium.svg" />
 </a>
 <a href="https://dev.to/fullstackdevelopercommunity">
   <img align="left" alt="fullstackdevelopercommunity | Dev.to" width="22px" src="./src/dev-dot-to.svg" />
