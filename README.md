@@ -22,24 +22,7 @@ A Lean In group is a small group of technicians who meet to support each other a
 We’ll dive into a different topic like Core Java, JSP, Servlets, Spring, SpringBoot, SQL, Hibernate, Junit, Mockito, SQL, Spring MVC, Kafka, PCF, Microservices, Docker, Kubernetes, ranging from identifying our strengths to combating bias at work. Lean In has teamed up with leading experts to create and activities that will guide our discussions.
 
 I think you’d be a wonderful addition to the group and hope you’ll consider joining us.
-<!--
-```
-Facebook Page: https://www.facebook.com/fullstackjavadevelopercommunity                                                                                                   
-Facebook Group: https://www.facebook.com/groups/fullstackjavadevelopercommunity
-GitHub: https://github.com/fullstackjavadevelopercommunity
-Twitter: https://twitter.com/i_fsjdc
-Blog: https://fullstackjavadevelopercommunity.blogspot.com
-Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
-```
--->
-<!--
-- [Facebook Page:](https://www.facebook.com/fullstackjavadevelopercommunity)
-- [Facebook Group:](https://www.facebook.com/groups/fullstackjavadevelopercommunity)
-- [GitHub:](https://github.com/fullstackjavadevelopercommunity)
-- [Twitter:](https://twitter.com/i_fsjdc)
-- [Blog:](https://fullstackjavadevelopercommunity.blogspot.com)
-- [Google Group:](https://groups.google.com/g/fullstackjavadevelopercommunity)
--->
+<br/>
 <br/>
 <a href="https://www.linkedin.com/groups/9062940/">
   <img align="left" alt="fullstackjavadevelopercommunity | LinkedIn" width="22px" src="./src/linkedin.svg" />
@@ -72,21 +55,17 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
   <img align="left" alt="fullstackjavadevelopercommunity | Youtube" width="22px" src="./src/youtube.svg" />
 </a>
 <br/>
-
-<!--<a href="https://github.com/fullstackjavadevelopercommunity">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>-->
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity)](https://github.com/fullstackjavadevelopercommunity)-->
-
 <br/>
 
 <a href="https://github.com/fullstackjavadevelopercommunity">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstackjavadevelopercommunity&layout=compact&&show_icons=true&theme=great-gatsby" />
 </a>
 <br/>
+<br/>
 <a href="https://github.com/fullstackjavadevelopercommunity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackjavadevelopercommunity&langs_count=8&layout=compact&&show_icons=true&theme=great-gatsby" />
 </a>
+<br/>
 <br/>
 <a href="https://github.com/fullstackjavadevelopercommunity/eCommerce-Shopping-POC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackjavadevelopercommunity&repo=eCommerce-Shopping-POC&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -96,13 +75,6 @@ Google Group: https://groups.google.com/g/fullstackjavadevelopercommunity
 </a> 
 <br/>
 <br/>
-## 📕 Latest Blog Posts
-
-BLOG-POST-LIST:START 
-BLOG-POST-LIST:END 
-
-<!--https://www.youtube.com/feeds/videos.xml?playlist_id=<playlistId>-->
-https://www.youtube.com/feeds/videos.xml?channel_id=UCD5AQ2MNmZNfaPIx8scIJtw
                                         
 Warm wishes,<br/>                                                                                                                                                             
 Full Stack Java Developer Community
